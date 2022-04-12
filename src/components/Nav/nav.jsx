@@ -11,7 +11,7 @@ export function Nav() {
             <img src={icon} alt="Logo do Harry Potter" />
           </li>
           <li>
-            <h1>Personagens do Hary Potter</h1>
+            <h1>Personagens do Harry Potter</h1>
           </li>
         </div>
         <div className="nav-links">

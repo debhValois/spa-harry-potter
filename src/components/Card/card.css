@@ -1,0 +1,42 @@
+.card {
+    display: flex;
+    flex-wrap: wrap; /*p responsividade, quebrar linha qdo encher*/
+    width: 25rem;
+    padding: 1.5rem;
+    box-shadow: #00000080 0px 3px 8px;
+    margin: 0.5rem;
+    transform: scale(0.9); /*truque p não sobrepor cards no hover*/
+    transition: all 0.3s ease-in-out;
+    background: transparent;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.card:hover {
+    transform: scale(1);
+}
+
+.card-text {
+    padding-left: 1.5rem;
+}
+
+.card-actor {
+    padding-top: 6.5rem;
+}
+
+@media (max-width: 955px) {
+    .card-title {
+      font-size: 3rem;
+    }
+    .card img{
+        width: 100%;
+    }
+    .card-house{
+        font-size: 2rem;
+    }
+    .card-actor{
+        padding: 1rem 0 0 0;
+        font-size: 1.5rem;
+    }
+  }
+  
