@@ -1,11 +1,11 @@
 .card {
     display: flex;
-    flex-wrap: wrap; /*p responsividade, quebrar linha qdo encher*/
+    flex-wrap: wrap;
     width: 25rem;
     padding: 1.5rem;
     box-shadow: #00000080 0px 3px 8px;
     margin: 0.5rem;
-    transform: scale(0.9); /*truque p não sobrepor cards no hover*/
+    transform: scale(0.9);
     transition: all 0.3s ease-in-out;
     background: transparent;
     border-radius: 0.5rem;
@@ -38,5 +38,5 @@
         padding: 1rem 0 0 0;
         font-size: 1.5rem;
     }
-  }
+}
   
