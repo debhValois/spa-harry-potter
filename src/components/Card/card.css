@@ -5,7 +5,7 @@
     padding: 1.5rem;
     box-shadow: #00000080 0px 3px 8px;
     margin: 0.5rem;
-    transform: scale(0.9);
+    transform: scale(0.9); /* para escalar o mouseOver sem sobrepor cards */
     transition: all 0.3s ease-in-out;
     background: transparent;
     border-radius: 0.5rem;
