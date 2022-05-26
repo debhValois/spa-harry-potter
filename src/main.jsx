@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom'
 import './index.css'
 import App from './App'
 
+/* Renderiza o componente 'App' na div root */
 ReactDOM.render(
   <React.StrictMode>
     <App />

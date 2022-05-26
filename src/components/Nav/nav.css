@@ -40,7 +40,7 @@ nav {
     display: flex;
 }
 
-h1 {
+h1 { /* Título: Personagem do Harry Potter */
     padding: 0;
     font-size: 1.8rem;
     color: #fbba0b;
@@ -48,6 +48,6 @@ h1 {
 
 @media (max-width: 955px) { /*responsivity*/
     h1{
-        display: none; /*some com o h1*/
+        display: none; /*some com o h1 qdo screen for menor que 955*/
     }
 }
