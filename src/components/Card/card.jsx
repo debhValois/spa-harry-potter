@@ -1,4 +1,4 @@
-import "./card.css";
+import "./Card.css";
 
 import { useState } from "react";
 import { UpdateCharacterModal } from "../UpdateCharacterModal/UpdateCharacterModal";
