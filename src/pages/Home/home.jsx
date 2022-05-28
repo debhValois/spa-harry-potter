@@ -49,7 +49,7 @@ export function Home() {
   const [refreshCharacters, setRefreshCharacters] = useState(0);
   const [isNewCharacterModalOpen, setIsNewCharacterModalOpen] = useState(false);
 
-  function handleOpenNewCharacterModal() {
+  function handleOpenNewCharacterModal() { //button-create
     setIsNewCharacterModalOpen(true);
   }
 
@@ -89,11 +89,12 @@ export function Home() {
         })}
       </section>
 
-      <NewCharacterModal
+      <NewCharacterModal // CALL MODAL + PROPERTIES
         isOpen={isNewCharacterModalOpen}
         closeModal={handleCloseNewCharacterModal}
         onCreate={onChangeCharacter}
       />
+
     </>
   );
 }
