@@ -1,4 +1,5 @@
 import "./UpdateCharacterModal.css";
+
 import Modal from "react-modal";
 import { useState } from "react";
 import { api } from "../../services/api";
