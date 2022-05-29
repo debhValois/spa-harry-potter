@@ -1,8 +1,8 @@
 {
   "name": "spa-hp-cps",
-  "homepage": ".",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://debhvalois.github.io/spa-harry-potter/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
