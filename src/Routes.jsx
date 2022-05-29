@@ -16,3 +16,5 @@ export function AppRoutes() {
     </Router>
   );
 }
+
+// problem rename Routes / routes - caseSensitive
