@@ -4,7 +4,11 @@
 
 <p align="center"> Status <☕> 06/04 à 28/05/2022 <☕/></p>
 
-# 
+# Carregar Page em:
+  
+https://debhvalois.github.io/spa-harry-potter/
+  
+  
 ### Descrição
 - Meu primeiro projeto front-end com React/Node 
 - Modelo: "Personagens do Harry Potter"
