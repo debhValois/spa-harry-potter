@@ -1,15 +1,16 @@
 {
-  "name": "spa-hp-cps",
+  "name": "spa-harry-potter",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://debhvalois.github.io/spa-harry-potter/",
+  "homepage": "spa-harry-potter/",
   "scripts": {
     "dev": "vite",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "dependencies": {
     "axios": "^0.27.2",
