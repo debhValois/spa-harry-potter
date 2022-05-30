@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img alt="Logo H de Harry Potter" title="spider-man" src="./src/images/icon.png" width="80px"/> HARRY POTTER <img alt="Logo H de Harry Potter" title="spider-man" src="./src/images/icon.png" width="90px"/>
+  <img alt="Logo H de Harry Potter" title="spider-man" src="./src/images/icon.png" width="80px"/> HARRY POTTER <img alt="Logo HP de Harry Potter" title="spider-man" src="./src/images/icon.png" width="90px"/>
 </h1>
 
 <p align="center"> Status <☕> Finalizado 30/05/2022 <☕/></p>
 
-# Carregar Page em:
+# Carregar page em:
   
-https://debhvalois.github.io/spa-harry-potter/
+https://debhvalois.github.io/harry-potter-personagens/
   
   
 ### Descrição
