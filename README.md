@@ -2,7 +2,7 @@
   <img alt="Logo H de Harry Potter" title="spider-man" src="./src/images/icon.png" width="80px"/> HARRY POTTER <img alt="Logo H de Harry Potter" title="spider-man" src="./src/images/icon.png" width="90px"/>
 </h1>
 
-<p align="center"> Status <☕> 06/04 à 28/05/2022 <☕/></p>
+<p align="center"> Status <☕> Finalizado 30/05/2022 <☕/></p>
 
 # Carregar Page em:
   
